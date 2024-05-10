@@ -32,7 +32,7 @@ This paper aims to stitch a source head to another source body, while maintainin
 
 ## Databases
 
-**We process the [Stylish-Humans-HQ(SHHQ) dataset](https://github.com/stylegan-human/StyleGAN-Human) to the half-body SHHQ dataset as introduced in our paper. It can be downloaded from [Baidu Drive](https://pan.baidu.com/s/1TdUjplfiXayUKVpa9q_Zlw?pwd=2zjc)** with password `2zjc`.
+**We process the [Stylish-Humans-HQ(SHHQ) dataset](https://github.com/stylegan-human/StyleGAN-Human) to the half-body SHHQ dataset as introduced in our paper. It can be downloaded from [Baidu Drive](https://pan.baidu.com/s/1gDoyX0Cp4xWFJfwOQ6exVA?pwd=mw4y)** with password `mw4y`.
 
 
 
